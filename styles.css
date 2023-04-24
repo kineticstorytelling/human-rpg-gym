@@ -1,0 +1,17 @@
+.workout{
+    width: 60%;
+    
+    /* filter: drop-shadow(10px 10px 10px black) */
+}
+.hero{
+    background-color: black;
+    /* background: linear-gradient(to right, blue, black) */
+}
+.gym-img{
+    background-color: #555;
+    box-shadow: 0 0 5px 10px black;
+    width: 40rem;
+}
+.logo{
+    width: 10rem;
+}
